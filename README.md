@@ -18,7 +18,7 @@ You can see when you click the app, that will change to a random answer of your 
 
 View of the app
 
-![view of app](images/app-view.png)
+![view of app](images/app-video.gif)
 
 ## Technologies
 

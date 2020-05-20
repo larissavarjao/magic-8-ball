@@ -7,7 +7,6 @@ This is an app to practice flutter and create a magic ball.
 ```shell
 cd magic-8-ball/
 flutter run
-
 ```
 
 Or do Fn + F5 if you're on mac notebook
